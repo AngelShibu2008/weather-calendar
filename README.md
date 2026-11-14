@@ -1,0 +1,1 @@
+We are building an intelligent calendar/planner that suggests how to schedule or reschedule outdoor events based on user preferences and real-time weather conditions. Our product helps outdoor enthusiasts, daily commuters, athletes, gardeners, and event planners organize their days with precision.

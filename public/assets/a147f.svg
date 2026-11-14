@@ -1,0 +1,8 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon">
+<mask id="stroke0_0_12" fill="white">
+<path d="M9 8.25L5.99976 2.25L1.4994 15.75H16.5006L12.7503 4.5L9 8.25Z"/>
+</mask>
+<path id="Glyph" d="M5.99976 2.25L9 8.25L12.7503 4.5L16.5006 15.75H1.4994L5.99976 2.25Z" stroke-width="3.4" stroke-linecap="round" stroke="#913E61" mask="url(#stroke0_0_12)"/>
+</g>
+</svg>
